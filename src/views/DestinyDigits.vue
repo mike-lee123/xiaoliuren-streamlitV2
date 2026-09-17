@@ -50,7 +50,7 @@
 
 <script setup>
 import { ref, computed } from "vue";
-import lifeData from '../assets/lifedigit.json';
+import lifeData from '../assets/lifeDigit.json';
 
 const birthdate = ref("");
 const lifePathNumber = ref(null);
