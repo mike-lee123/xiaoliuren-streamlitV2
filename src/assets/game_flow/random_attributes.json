@@ -1,0 +1,12 @@
+{
+  "id": "random_attributes",
+  "name": "隨機資質",
+  "completed": false,
+  "description": "隨機生成靈根、悟性、根骨等資質",
+  "order": 2,
+  "attributes": [
+    "靈根",
+    "悟性",
+    "根骨"
+  ]
+} 

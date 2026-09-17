@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "觀音竹",
+    "description": "薰衣草具有舒緩壓力、助眠及放鬆身心的功效。",
+    "image": "https://i.imgur.com/DDSF6ud.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "四方竹",
+    "description": "薄荷可幫助消化、提神醒腦，並具有清涼的香氣。",
+    "image": "https://kensmartcartbucket.s3.us-east-1.amazonaws.com/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "日本雪柳",
+    "description": "蘆薈可用於舒緩肌膚、修復曬傷，並具有保濕功效。",
+    "image": "https://kensmartcartbucket.s3.us-east-1.amazonaws.com/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "迷迭香",
+    "description": "迷迭香有助於提高記憶力、減少疲勞並促進血液循環。",
+    "image": "https://kensmartcartbucket.s3.us-east-1.amazonaws.com/images/4.jpg"
+  }
+]

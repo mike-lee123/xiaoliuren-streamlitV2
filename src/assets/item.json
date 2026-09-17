@@ -1,0 +1,62 @@
+[
+  {
+    "code": "LS001",
+    "name": "靈石",
+    "description": "蘊含天地靈氣的晶石，是修仙界通用的貨幣和修煉資源",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "JLD002",
+    "name": "聚靈丹",
+    "description": "能夠幫助修士快速聚集靈氣的丹藥，是修煉的基礎輔助品",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "FJ003",
+    "name": "飛劍",
+    "description": "修士常用的飛行法器和戰鬥武器，可御劍飛行，千里取敵首級",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "CWD004",
+    "name": "儲物袋",
+    "description": "內含空間法陣的袋子，可儲存大量物品，是修士必備的隨身物品",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "HSF005",
+    "name": "護身符",
+    "description": "刻有防禦法陣的符籙，可在危急時刻保護修士免受傷害",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "LC006",
+    "name": "靈草",
+    "description": "生長在靈氣充沛之地的藥草，是煉製丹藥的重要材料",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "ZP007",
+    "name": "陣盤",
+    "description": "刻有陣法的圓盤，可用於布置防禦陣法或困敵陣法",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "LSD008",
+    "name": "靈獸蛋",
+    "description": "蘊含靈獸血脈的蛋，孵化後可成為修士的靈寵",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "LQ009",
+    "name": "靈泉",
+    "description": "蘊含濃郁靈氣的泉水，長期飲用可改善體質，提升修為",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "code": "LF010",
+    "name": "靈符",
+    "description": "刻有各種法術的符籙，使用時可釋放對應的法術效果",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  }
+] 

@@ -1,0 +1,122 @@
+{
+  "birthOptions": [
+    {
+      "id": "noble",
+      "name": "貴族世家",
+      "description": "出生於修煉世家，家族世代修煉，擁有豐富的修煉資源和傳承。",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 8,
+          "talent": 7,
+          "luck": 6,
+          "wealth": 9
+        },
+        "startingItems": [
+          "基礎修煉功法",
+          "靈石100顆",
+          "護身符"
+        ],
+        "relationships": [
+          "家族長老",
+          "同輩修煉者",
+          "家族護衛"
+        ]
+      },
+      "story": "作為家族嫡系子弟，從小接受嚴格的教育和訓練，肩負著振興家族的使命。"
+    },
+    {
+      "id": "commoner",
+      "name": "平民子弟",
+      "description": "出生於普通人家，家境貧寒，但天賦異稟。",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 9,
+          "talent": 8,
+          "luck": 7,
+          "wealth": 3
+        },
+        "startingItems": [
+          "殘破的修煉手冊",
+          "靈石10顆"
+        ],
+        "relationships": [
+          "村中長者",
+          "青梅竹馬",
+          "鄰居"
+        ]
+      },
+      "story": "雖然出身平凡，但天賦異稟，在偶然的機會下接觸到修煉之道，從此改變命運。"
+    },
+    {
+      "id": "orphan",
+      "name": "孤兒",
+      "description": "自幼失去雙親，在艱苦環境中成長，性格堅韌。",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 7,
+          "talent": 6,
+          "luck": 5,
+          "wealth": 2
+        },
+        "startingItems": [
+          "神秘玉佩",
+          "破舊的修煉筆記"
+        ],
+        "relationships": [
+          "養育者",
+          "同病相憐的夥伴",
+          "神秘導師"
+        ]
+      },
+      "story": "身世成謎，在艱苦環境中磨練出堅韌的性格，對修煉之道有著獨特的領悟。"
+    },
+    {
+      "id": "merchant",
+      "name": "商賈之子",
+      "description": "出生於商賈之家，從小接觸各種奇珍異寶，見多識廣。",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 6,
+          "talent": 7,
+          "luck": 8,
+          "wealth": 8
+        },
+        "startingItems": [
+          "商會令牌",
+          "靈石50顆",
+          "奇珍異寶圖鑑"
+        ],
+        "relationships": [
+          "商會會長",
+          "各地商人",
+          "修煉者顧問"
+        ]
+      },
+      "story": "在商賈之家的環境中長大，善於交際，對各種修煉資源有著敏銳的嗅覺。"
+    },
+    {
+      "id": "hermit",
+      "name": "隱士傳人",
+      "description": "被隱居山林的修煉者收養，從小接觸修煉之道。",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 8,
+          "talent": 8,
+          "luck": 6,
+          "wealth": 4
+        },
+        "startingItems": [
+          "隱士修煉心得",
+          "靈藥種子",
+          "簡易丹爐"
+        ],
+        "relationships": [
+          "隱士師父",
+          "山中靈獸",
+          "偶遇的修煉者"
+        ]
+      },
+      "story": "在清淨的山林中長大，心性純淨，對修煉之道有著獨特的見解。"
+    }
+  ]
+} 

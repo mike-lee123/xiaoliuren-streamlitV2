@@ -1,0 +1,107 @@
+[
+  {
+    "id": "mountain_cave",
+    "name": "靈氣山洞",
+    "type": "cultivation_spot",
+    "description": "一處隱藏在深山中的天然洞穴，靈氣充沛，是初學者修煉的絕佳場所。",
+    "environment": {
+      "temperature": "適中",
+      "humidity": "較高",
+      "lighting": "昏暗",
+      "spiritual_energy": "中等"
+    },
+    "features": [
+      "天然形成的靈氣聚集點",
+      "石壁上刻有古老的修煉圖案",
+      "洞內有清澈的靈泉"
+    ],
+    "suitable_for": ["練氣期", "築基期"],
+    "dangers": ["偶爾有低階靈獸出沒"],
+    "special_events": [
+      "每月十五靈氣最盛",
+      "每年冬至時會出現特殊靈氣波動"
+    ]
+  },
+  {
+    "id": "mystic_forest",
+    "name": "迷霧森林",
+    "type": "adventure_zone",
+    "description": "常年被迷霧籠罩的神秘森林，蘊藏著無數天材地寶，但也充滿危險。",
+    "environment": {
+      "temperature": "涼爽",
+      "humidity": "極高",
+      "lighting": "昏暗",
+      "spiritual_energy": "高等"
+    },
+    "features": [
+      "千年靈藥生長地",
+      "上古遺跡碎片",
+      "靈獸棲息地"
+    ],
+    "suitable_for": ["築基期", "金丹期"],
+    "dangers": [
+      "高階靈獸",
+      "天然迷陣",
+      "毒瘴"
+    ],
+    "special_events": [
+      "每三年出現一次靈藥成熟期",
+      "月圓之夜會出現特殊靈氣波動"
+    ]
+  },
+  {
+    "id": "heavenly_palace",
+    "name": "天宮",
+    "type": "advanced_cultivation",
+    "description": "懸浮在雲端之上的宏偉宮殿，是修煉界最頂級的修煉場所。",
+    "environment": {
+      "temperature": "恆溫",
+      "humidity": "適中",
+      "lighting": "明亮",
+      "spiritual_energy": "極高"
+    },
+    "features": [
+      "修煉密室",
+      "煉丹房",
+      "藏經閣",
+      "演武場"
+    ],
+    "suitable_for": ["元嬰期", "化神期", "大乘期"],
+    "dangers": [
+      "天劫",
+      "心魔",
+      "修煉瓶頸"
+    ],
+    "special_events": [
+      "每百年舉辦一次修煉大會",
+      "每千年出現一次天宮秘境"
+    ]
+  },
+  {
+    "id": "abyss",
+    "name": "深淵",
+    "type": "dangerous_zone",
+    "description": "連接魔界的深淵裂縫，充滿邪惡能量，是修煉者歷練的極限之地。",
+    "environment": {
+      "temperature": "極低",
+      "humidity": "極高",
+      "lighting": "黑暗",
+      "spiritual_energy": "混亂"
+    },
+    "features": [
+      "魔氣聚集地",
+      "上古戰場遺跡",
+      "邪修據點"
+    ],
+    "suitable_for": ["化神期", "大乘期"],
+    "dangers": [
+      "魔氣侵蝕",
+      "邪修襲擊",
+      "空間裂縫"
+    ],
+    "special_events": [
+      "每十年出現一次魔氣潮汐",
+      "每百年會出現一次深淵秘境"
+    ]
+  }
+] 

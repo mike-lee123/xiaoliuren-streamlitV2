@@ -1,0 +1,79 @@
+{
+  "locationOptions": ["宗門", "散修"],
+  "birthOptions": [
+    {
+      "title": "修仙世家",
+      "description": "出生於修仙世家，從小接觸修煉之道",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 8,
+          "talent": 7,
+          "luck": 6,
+          "wealth": 9
+        },
+        "relationships": [
+          "與家族長老關係良好",
+          "與其他修仙世家有往來"
+        ]
+      },
+      "items": [
+        {
+          "name": "靈石",
+          "image": "https://i.imgur.com/a79JRqm.jpeg",
+          "count": 100
+        },
+        {
+          "name": "初級功法",
+          "image": "https://i.imgur.com/example.jpg",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "title": "普通凡人",
+      "description": "出生於普通人家，機緣巧合踏上修仙之路",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 5,
+          "talent": 6,
+          "luck": 7,
+          "wealth": 4
+        },
+        "relationships": [
+          "與村中長輩關係良好",
+          "有幾位知心好友"
+        ]
+      },
+      "items": [
+        {
+          "name": "靈石",
+          "image": "https://i.imgur.com/a79JRqm.jpeg",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "title": "神秘身世",
+      "description": "身世成謎，擁有特殊體質",
+      "effects": {
+        "initialAttributes": {
+          "spiritualRoot": 7,
+          "talent": 8,
+          "luck": 5,
+          "wealth": 3
+        },
+        "relationships": [
+          "與神秘組織有聯繫",
+          "有一位神秘的引路人"
+        ]
+      },
+      "items": [
+        {
+          "name": "神秘玉佩",
+          "image": "https://i.imgur.com/example2.jpg",
+          "count": 1
+        }
+      ]
+    }
+  ]
+} 

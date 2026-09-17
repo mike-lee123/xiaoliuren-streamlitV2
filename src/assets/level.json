@@ -1,0 +1,68 @@
+[
+  {
+    "stage": 1,
+    "name": "練氣期",
+    "description": "初入修仙之門，感應天地靈氣，引氣入體。",
+    "cultivation_method": "每日打坐冥想，感受天地靈氣，引導靈氣在經脈中運行。",
+    "difficulty": "入門階段，需耐心和毅力。",
+    "duration": "通常需要3-5年。",
+    "warning": "切勿急功近利，否則容易走火入魔。",
+    "benefits": "身體素質提升，延年益壽，初步掌握靈氣運用。",
+    "image": "https://i.imgur.com/example1.png"
+  },
+  {
+    "stage": 2,
+    "name": "築基期",
+    "description": "靈氣積累到一定程度，開始築基，為日後修煉打下基礎。",
+    "cultivation_method": "需要服用築基丹，配合特殊功法，在丹田中凝聚靈氣。",
+    "difficulty": "中等難度，需要天賦和機緣。",
+    "duration": "通常需要10-20年。",
+    "warning": "築基失敗可能導致修為倒退，需謹慎行事。",
+    "benefits": "壽命延長至200年，可施展簡單法術，御劍飛行。",
+    "image": "https://i.imgur.com/example2.png"
+  },
+  {
+    "stage": 3,
+    "name": "金丹期",
+    "description": "靈氣凝結成丹，修為大進，可稱一方強者。",
+    "cultivation_method": "需要特殊功法，配合天材地寶，在丹田中凝聚金丹。",
+    "difficulty": "高難度，需要極高的天賦和機緣。",
+    "duration": "通常需要50-100年。",
+    "warning": "金丹凝聚時容易引來天劫，需做好準備。",
+    "benefits": "壽命延長至500年，可施展高級法術，煉製法寶。",
+    "image": "https://i.imgur.com/example3.png"
+  },
+  {
+    "stage": 4,
+    "name": "元嬰期",
+    "description": "金丹化嬰，元神出竅，可稱一方霸主。",
+    "cultivation_method": "需要特殊功法，配合大量天材地寶，在丹田中孕育元嬰。",
+    "difficulty": "極高難度，需要極高的天賦和機緣。",
+    "duration": "通常需要200-500年。",
+    "warning": "元嬰凝聚時會引來更強的天劫，需做好萬全準備。",
+    "benefits": "壽命延長至1000年，可施展頂級法術，煉製高級法寶。",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "stage": 5,
+    "name": "化神期",
+    "description": "元嬰化神，可稱一方至尊。",
+    "cultivation_method": "需要特殊功法，配合極品天材地寶，在丹田中孕育元神。",
+    "difficulty": "極高難度，需要極高的天賦和機緣。",
+    "duration": "通常需要1000-2000年。",
+    "warning": "化神時會引來最強天劫，九死一生。",
+    "benefits": "壽命延長至3000年，可施展神級法術，煉製神器。",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  },
+  {
+    "stage": 6,
+    "name": "大乘期",
+    "description": "元神圓滿，可稱一方仙尊。",
+    "cultivation_method": "需要特殊功法，配合仙級天材地寶，在丹田中孕育仙體。",
+    "difficulty": "最高難度，需要極高的天賦和機緣。",
+    "duration": "通常需要5000-10000年。",
+    "warning": "大乘時會引來最強天劫，十死無生。",
+    "benefits": "壽命延長至10000年，可施展仙級法術，煉製仙器。",
+    "image": "https://i.imgur.com/a79JRqm.jpeg"
+  }
+] 

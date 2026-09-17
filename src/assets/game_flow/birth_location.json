@@ -1,0 +1,11 @@
+{
+  "id": "birth_location",
+  "name": "出身地點",
+  "completed": false,
+  "description": "選擇出身地點/宗門/散修",
+  "order": 3,
+  "options": [
+    "宗門",
+    "散修"
+  ]
+} 

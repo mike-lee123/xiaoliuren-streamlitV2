@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2368125065788631"
+     crossorigin="anonymous"></script>
+    <!-- 引入 FontAwesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RNNVW90DGG"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-RNNVW90DGG');
+    </script>
+    <!-- 頁面基本資訊 -->
+    <meta charset="UTF-8" />
+    <meta name="google-adsense-account" content="ca-pub-2368125065788631">
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="專注於提供有趣、實用的文章，涵蓋各類主題，如健康、生活、科技、娛樂等，讓你隨時獲取最新資訊。" />
+    <meta name="keywords" content="內容農場, 文章, 健康, 生活, 科技, 娛樂, 資訊, 新聞" />
+    <title>曼卡生活</title>
+
+    <!-- 引入 Google API 客戶端 -->
+    <script src="https://apis.google.com/js/api.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- 引入 Vue 應用的主 JS 檔案 -->
+    <script type="module">
+      // 等待 Google API 載入完成後初始化 Vue 應用
+      window.gapi.load('client', function() {
+        // 在這裡初始化 Vue 應用
+        import('/src/main.js')
+          .then(() => {
+            console.log('Vue App initialized!');
+          })
+          .catch(err => console.error('Vue App initialization failed', err));
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "stages": [
+    { "name": "出生選項" },
+    { "name": "資質系統" },
+    { "name": "出生地點" },
+    { "name": "初始屬性" }
+  ],
+  "birthOptions": [
+    { "title": "貴族", "description": "出身於貴族家庭，擁有良好的教育和資源" },
+    { "title": "平民", "description": "普通家庭出身，但擁有堅韌的意志" },
+    { "title": "流浪者", "description": "從小在街頭長大，學會了生存的技巧" }
+  ],
+  "talents": [
+    { "name": "力量", "value": 5 },
+    { "name": "敏捷", "value": 5 },
+    { "name": "智力", "value": 5 },
+    { "name": "魅力", "value": 5 }
+  ],
+  "remainingPoints": 10,
+  "locations": [
+    { "name": "王城", "description": "繁華的都城，充滿機遇與挑戰" },
+    { "name": "邊境", "description": "偏遠的邊境小鎮，民風淳樸" },
+    { "name": "森林", "description": "神秘的森林深處，與自然為伴" }
+  ],
+  "attributes": [
+    { "name": "生命值", "value": 100 },
+    { "name": "魔力值", "value": 50 },
+    { "name": "攻擊力", "value": 10 },
+    { "name": "防禦力", "value": 5 }
+  ]
+} 

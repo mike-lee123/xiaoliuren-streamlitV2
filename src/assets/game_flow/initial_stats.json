@@ -1,0 +1,12 @@
+{
+  "id": "initial_stats",
+  "name": "初始屬性",
+  "completed": false,
+  "description": "設定初始屬性",
+  "order": 4,
+  "stats": [
+    "壽命",
+    "靈力",
+    "年齡"
+  ]
+} 

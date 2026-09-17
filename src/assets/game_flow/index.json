@@ -1,0 +1,20 @@
+{
+  "game_flow": [
+    {
+      "id": "birth_system",
+      "file": "birth_system.json"
+    },
+    {
+      "id": "random_attributes",
+      "file": "random_attributes.json"
+    },
+    {
+      "id": "birth_location",
+      "file": "birth_location.json"
+    },
+    {
+      "id": "initial_stats",
+      "file": "initial_stats.json"
+    }
+  ]
+} 
